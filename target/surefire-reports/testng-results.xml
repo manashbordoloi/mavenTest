@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T00:49:37 IST" name="Surefire suite" finished-at="2022-07-30T00:49:37 IST" duration-ms="490">
+    <groups>
+    </groups>
+    <test started-at="2022-07-30T00:49:37 IST" name="Surefire test" finished-at="2022-07-30T00:49:37 IST" duration-ms="490">
+      <class name="qacomp.mavenTest.Test1">
+        <test-method signature="Loginvalidate()[pri:0, instance:qacomp.mavenTest.Test1@327514f]" started-at="2022-07-30T00:49:37 IST" name="Loginvalidate" finished-at="2022-07-30T00:49:37 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginvalidate -->
+      </class> <!-- qacomp.mavenTest.Test1 -->
+      <class name="qacomp.mavenTest.Test7">
+        <test-method signature="ManashTest2()[pri:0, instance:qacomp.mavenTest.Test7@1e800aaa]" started-at="2022-07-30T00:49:37 IST" name="ManashTest2" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManashTest2 -->
+      </class> <!-- qacomp.mavenTest.Test7 -->
+      <class name="qacomp.mavenTest.Test6">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qacomp.mavenTest.Test6@5bda8e08]" started-at="2022-07-30T00:49:37 IST" name="BrowserAutomation" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qacomp.mavenTest.Test6 -->
+      <class name="qacomp.mavenTest.Test3">
+        <test-method signature="loginTest2()[pri:0, instance:qacomp.mavenTest.Test3@f5958c9]" started-at="2022-07-30T00:49:37 IST" name="loginTest2" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+      </class> <!-- qacomp.mavenTest.Test3 -->
+      <class name="qacomp.mavenTest.Test2">
+        <test-method signature="LoginPage3()[pri:0, instance:qacomp.mavenTest.Test2@77c2494c]" started-at="2022-07-30T00:49:37 IST" name="LoginPage3" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage3 -->
+      </class> <!-- qacomp.mavenTest.Test2 -->
+      <class name="qacomp.mavenTest.Test5">
+        <test-method signature="LoginTest()[pri:0, instance:qacomp.mavenTest.Test5@3eb738bb]" started-at="2022-07-30T00:49:37 IST" name="LoginTest" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- qacomp.mavenTest.Test5 -->
+      <class name="qacomp.mavenTest.Test4">
+        <test-method signature="test4()[pri:0, instance:qacomp.mavenTest.Test4@233795b6]" started-at="2022-07-30T00:49:37 IST" name="test4" finished-at="2022-07-30T00:49:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- qacomp.mavenTest.Test4 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
